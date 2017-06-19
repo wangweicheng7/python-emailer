@@ -11,7 +11,6 @@ DOC = \
 """
 Features:
     Python SMTP 发送带附件电子邮件
-    $ sudo pip install pyapns
     Author: weicheng wang
     Note:   Python内置对SMTP的支持，可以发送纯文本邮件、HTML邮件以及带附件的邮件
     
